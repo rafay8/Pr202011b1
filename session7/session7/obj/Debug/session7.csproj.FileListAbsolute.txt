@@ -1,0 +1,7 @@
+D:\Mohtashim\session7\session7\bin\Debug\session7.exe.config
+D:\Mohtashim\session7\session7\bin\Debug\session7.exe
+D:\Mohtashim\session7\session7\bin\Debug\session7.pdb
+D:\Mohtashim\session7\session7\obj\Debug\session7.csprojAssemblyReference.cache
+D:\Mohtashim\session7\session7\obj\Debug\session7.csproj.CoreCompileInputs.cache
+D:\Mohtashim\session7\session7\obj\Debug\session7.exe
+D:\Mohtashim\session7\session7\obj\Debug\session7.pdb
